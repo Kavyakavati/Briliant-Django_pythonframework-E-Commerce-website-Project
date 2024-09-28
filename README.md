@@ -12,6 +12,8 @@ TECHNOLGIES USED IN E-commerce Wesite Project
    5.CSS(Cascading Style Sheets)
    6.SCSS(Sassy Cascading Style sheet)
    7.Js(Javascript)
+
+
 **Project OverView**
   Develop basic ecommerce website where users can browse products, add them to a cart, and proceed to checkouts process.The  application will include user authentication, product management, and simple order processing
 
