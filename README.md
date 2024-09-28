@@ -5,13 +5,13 @@ It provides the user with a list of the various products available for purchase 
 For the convenience of online shopping, a shopping cart is provided to the user. After the selection of the goods, it is sent for the order confirmation process. 
 The system is implemented using Python’s web framework Django. To build a Django e-commerce web application, it is necessary to study and understand many technologies.
 TECHNOLGIES USED IN E-commerce Wesite Project
-    PYTHON
-    DJANGO(Frameworks)
-    SQlLite
-    HTML(Hyper Text Markup Language
-    CSS(Cascading Style Sheets)
-    SCSS(Sassy Cascading Style sheet)
-    Js(Javascript)
+   1. PYTHON
+   2. DJANGO(Frameworks)
+   3. SQlLite
+    4.HTML(Hyper Text Markup Language
+    5.CSS(Cascading Style Sheets)
+    6.SCSS(Sassy Cascading Style sheet)
+    7.Js(Javascript)
 Project OverView
   Develop basic ecommerce website where users can browse products, add them to a cart, and proceed to checkouts process.The  application will include user authentication, product management, and simple order processing
 
