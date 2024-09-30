@@ -1,12 +1,12 @@
 ### E-commerce Website using Django
-
+--------------------
 This project deals with developing a Virtual website ‘E-commerce Website’. 
 It provides the user with a list of the various products available for purchase in the store. 
 For the convenience of online shopping, a shopping cart is provided to the user. After the selection of the goods, it is sent for the order confirmation process. 
 The system is implemented using Python’s web framework Django. To build a Django e-commerce web application, it is necessary to study and understand many technologies.
------------------------
+------------------------------
 ### TECHNOLGIES USED IN E-commerce Wesite Project
-    -[x] PYTHON
+   1.PYTHON
    2. DJANGO(Frameworks)
    3. SQlLite
    4.HTML(Hyper Text Markup Language
@@ -53,7 +53,7 @@ The system is implemented using Python’s web framework Django. To build a Djan
 * Enhancement
    integrate a simple payments gateway simulation(eg..., PAYMENTS) to complete to chceckout process
    
-  <img src"https://raw.githubusercontent.com/mena18/Django-Ecommerce/master/Screenshots/home_page.png">
+  <img src"https://img.freepik.com/premium-photo/prototype-ecommerce-website-homepage-complete-with-featured-products-promotional-banners_200188-4316.jpg?w=740">
    
    
   
