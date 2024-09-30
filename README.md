@@ -28,16 +28,16 @@ The system is implemented using Python’s web framework Django. To build a Djan
      4.image
      5.stock
    - implementation of features
-    i. list Products
-    ii. View Products
+  ** list Products
+   ** iew Products
 * SHOPPING CART
     Add to Cart
     View Cart
    Update Cart
 * USER AUTHENTICATION
    Implement user registration
-     Log-in
-     Log-Out Functionalities
+     - Log-in
+     - Log-Out Functionalities
 * Checkout Process
     Shipping Details
     Order Summary
