@@ -30,7 +30,7 @@ The system is implemented using Python’s web framework Django. To build a Djan
      5.stock
   * implementation of features
   - list Products
-   - iew Products
+   - view Products
 * SHOPPING CART
     Add to Cart
     View Cart
