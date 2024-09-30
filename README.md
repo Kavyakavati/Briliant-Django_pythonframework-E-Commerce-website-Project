@@ -27,9 +27,9 @@ The system is implemented using Python’s web framework Django. To build a Djan
      3.Price
      4.image
      5.stock
-   - implementation of features
-  ** list Products
-   ** iew Products
+  * implementation of features
+  - list Products
+   - iew Products
 * SHOPPING CART
     Add to Cart
     View Cart
